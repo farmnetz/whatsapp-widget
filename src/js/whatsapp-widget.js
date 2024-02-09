@@ -16,7 +16,7 @@ let paramsDefault = {
     optionsBot: {
         name: 'Nelly',
         image: 'https://img.icons8.com/plasticine/2x/bot.png',
-        messageDefault: 'Hello, comment peux ton vous servir ',
+        messageDefault: 'Hello, des questions ? ',
         messageTyping: 'écrit...'
     }
 };
